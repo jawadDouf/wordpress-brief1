@@ -1,0 +1,48 @@
+
+Deleted - Post ID 13 - page - Contact
+Deleted - Post ID 15 - nav_menu_item - Home
+Deleted - Post ID 15 - nav_menu_item - Home
+Deleted - Post ID 16 - nav_menu_item - 
+Deleted - Post ID 17 - nav_menu_item - 
+Deleted - Post ID 18 - nav_menu_item - 
+Deleted - Post ID 19 - nav_menu_item - 
+Deleted - Post ID 398 - attachment - logo-retina-001-free-img
+Deleted - Post ID 400 - attachment - logo-footer-01-free-img
+Deleted - Post ID 402 - attachment - product-005-free-img
+Deleted - Post ID 400 -  - 
+Deleted - Post ID 402 - attachment - product-005-free-img
+Deleted - Post ID 406 - attachment - gallery-05-free-img
+Deleted - Post ID 406 - attachment - gallery-05-free-img
+Deleted - Post ID 407 - attachment - gallery-08-free-img
+Deleted - Post ID 408 - attachment - gallery-06-free-img
+Deleted - Post ID 408 - attachment - gallery-06-free-img
+Deleted - Post ID 409 - attachment - gallery-07-free-img
+Deleted - Post ID 510 - attachment - coffee-house-social-image
+Deleted - Post ID 510 - attachment - coffee-house-social-image
+Inserted WP Form 605
+Deleted customizer Settings {"theme-auto-version":"3.7.10","is_theme_queue_running":false}
+Imported - Site Options {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":[],"woocommerce_product_cat":[],"custom_logo":"https:\/\/websitedemos.net\/coffee-shop-02\/wp-content\/uploads\/sites\/845\/2021\/05\/site-logo.svg","nav_menu_locations":{"primary":"primary-menu","mobile_menu":"primary-menu"},"show_on_front":"page","page_on_front":"Home","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":null,"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"elementor_container_width":null,"elementor_cpt_support":["post","page"],"elementor_css_print_method":"external","elementor_default_generic_fonts":null,"elementor_disable_color_schemes":"yes","elementor_disable_typography_schemes":"yes","elementor_editor_break_lines":"","elementor_exclude_user_roles":null,"elementor_global_image_lightbox":null,"elementor_page_title_selector":null,"elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker]":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70","5":"#4054b2","6":"#23a455","7":"#000","8":"#fff"},"elementor_scheme_typography":{"1":{"font_family":"Roboto","font_weight":"600"},"2":{"font_family":"Roboto Slab","font_weight":"400"},"3":{"font_family":"Roboto","font_weight":"400"},"4":{"font_family":"Roboto","font_weight":"500"}},"elementor_space_between_widgets":null,"elementor_stretched_section_container":null,"elementor_load_fa4_shim":"","elementor_active_kit":"6","woocommerce_shop_page_title":"","woocommerce_cart_page_title":"","woocommerce_checkout_page_title":"","woocommerce_myaccount_page_title":"","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":null,"woocommerce_enable_checkout_login_reminder":null,"woocommerce_enable_signup_and_login_from_checkout":null,"woocommerce_enable_myaccount_registration":null,"woocommerce_registration_generate_username":null,"wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false},"learndash_settings_theme_ld30":null,"learndash_settings_courses_themes":null,"astra-color-palettes":{"currentPalette":"palette_1","palettes":{"palette_1":["#b37e6b","#a76d58","#3a3a3a","#4B4F58","#edeae8","#FFFFFF","#F2F5F7","#424242","#000000"],"palette_2":["#0274be","#035f9c","#3a3a3a","#4B4F58","#F5F5F5","#FFFFFF","#F2F5F7","#424242","#000000"],"palette_3":["#0274be","#035f9c","#3a3a3a","#4B4F58","#F5F5F5","#FFFFFF","#F2F5F7","#424242","#000000"]},"flag":false},"astra-typography-presets":""}
+Source - https://websitedemos.net/coffee-shop-02/wp-content/uploads/sites/845/2021/05/site-logo.svg
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/coffee-shop-02/wp-content/uploads/sites/845/2021/05/site-logo.svg
+Log - {"url":"https:\/\/websitedemos.net\/coffee-shop-02\/wp-content\/uploads\/sites\/845\/2021\/05\/site-logo.svg","id":0}
+Inserted - Post 607 - attachment - site-logo.svg
+BATCH - SUCCESS Image {Imported} - http://localhost/wordpress/wp-content/uploads/2022/04/site-logo.svg
+Inserted - Post 607 - attachment - site-logo.svg
+Deleted - Site Options {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":[],"woocommerce_product_cat":[],"custom_logo":"https:\/\/websitedemos.net\/coffee-shop-02\/wp-content\/uploads\/sites\/845\/2021\/05\/site-logo.svg","nav_menu_locations":{"primary":"primary-menu","mobile_menu":"primary-menu"},"show_on_front":"page","page_on_front":"Home","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":null,"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"elementor_container_width":null,"elementor_cpt_support":["post","page"],"elementor_css_print_method":"external","elementor_default_generic_fonts":null,"elementor_disable_color_schemes":"yes","elementor_disable_typography_schemes":"yes","elementor_editor_break_lines":"","elementor_exclude_user_roles":null,"elementor_global_image_lightbox":null,"elementor_page_title_selector":null,"elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker]":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70","5":"#4054b2","6":"#23a455","7":"#000","8":"#fff"},"elementor_scheme_typography":{"1":{"font_family":"Roboto","font_weight":"600"},"2":{"font_family":"Roboto Slab","font_weight":"400"},"3":{"font_family":"Roboto","font_weight":"400"},"4":{"font_family":"Roboto","font_weight":"500"}},"elementor_space_between_widgets":null,"elementor_stretched_section_container":null,"elementor_load_fa4_shim":"","elementor_active_kit":"6","woocommerce_shop_page_title":"","woocommerce_cart_page_title":"","woocommerce_checkout_page_title":"","woocommerce_myaccount_page_title":"","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":null,"woocommerce_enable_checkout_login_reminder":null,"woocommerce_enable_signup_and_login_from_checkout":null,"woocommerce_enable_myaccount_registration":null,"woocommerce_registration_generate_username":null,"wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false},"learndash_settings_theme_ld30":null,"learndash_settings_courses_themes":null,"astra-color-palettes":{"currentPalette":"palette_1","palettes":{"palette_1":["#b37e6b","#a76d58","#3a3a3a","#4B4F58","#edeae8","#FFFFFF","#F2F5F7","#424242","#000000"],"palette_2":["#0274be","#035f9c","#3a3a3a","#4B4F58","#F5F5F5","#FFFFFF","#F2F5F7","#424242","#000000"],"palette_3":["#0274be","#035f9c","#3a3a3a","#4B4F58","#F5F5F5","#FFFFFF","#F2F5F7","#424242","#000000"]},"flag":false},"astra-typography-presets":""}
+Imported - Widgets {"wp_inactive_widgets":[],"sidebar-1":["search-3","recent-posts-4","recent-comments-4","archives-3","categories-4","meta-3"],"header-widget":[],"footer-widget-1":[],"footer-widget-2":[],"advanced-footer-widget-1":[],"advanced-footer-widget-2":[],"advanced-footer-widget-3":[],"advanced-footer-widget-4":[],"array_version":3,"footer-widget-4":[],"footer-widget-3":[]}
+DELETED - WIDGETS ["search-3","recent-posts-4","recent-comments-4","archives-3","categories-4","meta-3"]
+Deleted - Form ID 605 - wpforms - Contact Form
+Batch Process Started..
+Starter Templates - Importing Images for Blog name 'restaurantOne' (1)
+Deleted - Post ID 607 - attachment - site-logo.svg
+Inserted WP Form 608
+---- Processing Images from Widgets -----
+---- Processing Contact Form Mapping from Text Widgets -----
+---- Processing Contact Form Mapping from WP Forms Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for Elementor ----
+---- Processing MISC ----
+---- Processing Images Metadata ----
+---- Processing batch process for Customizer start ----
+---- Processing batch process for Customizer done ----
+Batch Process Complete!
